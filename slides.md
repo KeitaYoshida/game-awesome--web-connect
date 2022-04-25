@@ -132,7 +132,8 @@ layout: full
     <br />
     <ul>
       <li>
-        <a href="https://discord.gg/yVSF2qR489">公式サイト</a>左上のアイコンをクリック
+        <a href="https://discord.gg/yVSF2qR489">公式サイト</a>
+        左上のアイコンをクリック
       </li>
       <li>キーコード入力画面にキーコードを入力</li>
       <li>決定ボタン押下後確認メッセージが表示される</li>
