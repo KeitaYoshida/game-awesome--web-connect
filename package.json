@@ -11,5 +11,8 @@
     "@slidev/theme-seriph": "*",
     "slidev-theme-light-icons": "^1.0.2"
   },
-  "name": "connect-web"
+  "name": "connect-web",
+  "devDependencies": {
+    "netlify-cli": "^10.0.0"
+  }
 }
