@@ -1,0 +1,7 @@
+a {
+  color: indigo;
+}
+
+h3 {
+  color: var(--slidev-theme-primary);
+}
